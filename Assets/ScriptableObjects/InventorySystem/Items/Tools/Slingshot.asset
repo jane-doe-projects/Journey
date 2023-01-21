@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b420aef019d51f749814ce9b099333dc, type: 3}
+  m_Name: Slingshot
+  m_EditorClassIdentifier: 
+  stackable: 0
+  prefab: {fileID: 8125784844793733047, guid: 93aeeff673bb8e34d8ee5b6b6ce9b4dc, type: 3}
+  icon: {fileID: 21300000, guid: ec76cddd69d31cf45bab81f525055640, type: 3}
+  type: 7
+  label: Slingshot
+  questItem: 0
+  description: I have no idea for a description.
+  hasBenefits: 0
+  visualPrefabOnly: {fileID: 7720811382757402310, guid: 1dc152ff8f990a848bb88ca17f070746, type: 3}
+  swingType: 2
+  toolType: 3

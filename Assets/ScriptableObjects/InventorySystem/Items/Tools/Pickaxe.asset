@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b420aef019d51f749814ce9b099333dc, type: 3}
+  m_Name: Pickaxe
+  m_EditorClassIdentifier: 
+  stackable: 0
+  prefab: {fileID: 1686215878513849089, guid: a80b8e38e5285dd438b806003e4863e9, type: 3}
+  icon: {fileID: 21300000, guid: 4cd2d00df275ba34f9ea5399e3b753f8, type: 3}
+  type: 7
+  label: Pickaxe
+  questItem: 0
+  description: A pickaxe that allows you to mine items from certain rocks.
+  hasBenefits: 0
+  visualPrefabOnly: {fileID: 2796820870309564939, guid: 2967c98e0f04128449cbb41a381c8b84, type: 3}

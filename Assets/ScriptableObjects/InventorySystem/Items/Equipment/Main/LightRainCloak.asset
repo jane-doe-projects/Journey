@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3d40ef6dc33701478529772bce618fb, type: 3}
+  m_Name: LightRainCloak
+  m_EditorClassIdentifier: 
+  stackable: 0
+  prefab: {fileID: 5565578267340719126, guid: cdeb42866f45ded439fe7e3f3327f4c8, type: 3}
+  icon: {fileID: 21300000, guid: 07a05a47dfe6333438c07cfaf61adbea, type: 3}
+  type: 2
+  label: Light Rain Cloak
+  questItem: 0
+  description: Protects from rain and damp weather.
+  hasBenefits: 1
+  weatherBonus: 0
+  enablesHiking: 0
+  equipSlot: 0

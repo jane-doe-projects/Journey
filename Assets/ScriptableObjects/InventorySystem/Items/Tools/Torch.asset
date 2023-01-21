@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b420aef019d51f749814ce9b099333dc, type: 3}
+  m_Name: Torch
+  m_EditorClassIdentifier: 
+  stackable: 0
+  prefab: {fileID: 1421874400607974078, guid: 74485124839ed314c93cc9a607e93057, type: 3}
+  icon: {fileID: 21300000, guid: 5de6491a347808448b4ce828b29aaae7, type: 3}
+  type: 7
+  label: Torch
+  questItem: 0
+  description: Illuminates your surroundings.
+  hasBenefits: 0
+  visualPrefabOnly: {fileID: 4063957641025479314, guid: bdd49100f2a63564ebefb8e970a2b0c7, type: 3}
+  swingType: 2
+  toolType: 3

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d4963f35e827164dadc6be9daf09a29, type: 3}
+  m_Name: LostSpringNuts
+  m_EditorClassIdentifier: 
+  isActive: 0
+  completed: 1
+  title: Lost Nuts
+  description: The squirrel does not remember where she put her nuts. Find nuts and
+    bring them to the squirrel.
+  questGiver: {fileID: 0}
+  goal:
+    goalText: Collect spring nuts
+    requiredItem: {fileID: 11400000, guid: ce672160ef6dbbd4d842ce97d165dbde, type: 2}
+    required: 8
+    current: 0
+    completed: 0
+  reward:
+    reward: {fileID: 11400000, guid: 1941211a7b959f74db86d50c614e8938, type: 2}
+    rewardAmount: 1
